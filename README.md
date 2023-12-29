@@ -1,6 +1,6 @@
-Python3 need to run this .py file
+Python3 is needed to run this .py file
 
-use this link to download python in your system https://www.python.org/downloads/
+first install python3 if you don't have you can use this link to download python in your system "https://www.python.org/downloads/"
 
 Using the below value : 
       
